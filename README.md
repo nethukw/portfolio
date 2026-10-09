@@ -2,7 +2,7 @@
 
 A React + Vite + Tailwind CSS portfolio website.
 
-🌐 My Developer Portfolio: nethmi-wijekoon-portfolio.netlify.app
+🌐 My Developer Portfolio: https://nethmi-wijekoon-portfolio.netlify.app/
 
 ## Run locally
 
